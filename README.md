@@ -9,5 +9,10 @@
 
 ![Apurv's github stats](https://github-readme-stats.vercel.app/api?username=FrancoLCantero&show_icons=true)
 
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+
+Leave a ⭐️ if you like this template and want to modify it for yourself!
 ----
 Last Edited on: 09/12/2024
