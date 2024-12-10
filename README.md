@@ -133,11 +133,12 @@
 </div>
 </details>
 
+
 </br></br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">Working on this</p>
+
+![Snake gif](https://github.com/FrancoLCantero/FrancoLCantero/blob/output/github-contribution-grid-snake.gif)
 
 <p>Leave a ⭐️ if you like this template and want to modify it for yourself!</p>
 <br>
