@@ -27,7 +27,7 @@
 
 <h2 align="center">Knowledge Base</h2>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Languages & Other Technologies</h3>
 <p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
