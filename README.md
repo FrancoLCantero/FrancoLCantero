@@ -138,7 +138,7 @@
 	
 ## 🐍 A Snake Eating my Contributions Graph
 
-![Snake gif](https://github.com/FrancoLCantero/FrancoLCantero/blob/output/github-contribution-grid-snake.gif)
+Working on this
 
 <p>Leave a ⭐️ if you like this template and want to modify it for yourself!</p>
 <br>
