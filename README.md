@@ -135,10 +135,6 @@
 
 
 </br></br>
-	
-## 🐍 A Snake Eating my Contributions Graph
-
-Working on this
 
 <p>Leave a ⭐️ if you like this template and want to modify it for yourself!</p>
 <br>
