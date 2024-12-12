@@ -4,11 +4,10 @@
 <h1 align="center">Hello World!! I'm Franco Cantero!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <h2 font-size="20" align="center">A passionate developer and a student from Argentina 🌎</h3>
 
+## About Me
 <picture>
  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
 </picture>
-
-## About Me
 ✔ I am currently studying at UNAHUR.<br>
 ✔ I am learning ReactJS, NodeJS, and Haskell.<br>
 ✔ I am eager to collaborate on open-source projects.<br>
