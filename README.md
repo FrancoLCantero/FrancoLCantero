@@ -82,11 +82,11 @@
  <a href="https://mariadb.org/" target="_blank">
   <img src="https://img.shields.io/badge/mariadb-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" />
  </a>
- <a href="https://trello.com/" target="_blank">
-  <img src="https://img.shields.io/badge/trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white" alt="trello" />
- </a>
  <a href="https://www.microsoft.com/en-us/windows/" target="_blank">
   <img src="https://img.shields.io/badge/command%20line-000000.svg?style=for-the-badge&logo=windows&logoColor=white" alt="cmd" />
+ </a>
+ <a href="https://trello.com/" target="_blank">
+  <img src="https://img.shields.io/badge/trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white" alt="trello" />
  </a>
  <a href="https://www.markdownguide.org/" target="_blank">
   <img src="https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
